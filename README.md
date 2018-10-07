@@ -2,6 +2,11 @@
 
 Handle events outside of element
 
+### Install:
+```
+npm install --save react-outside-events
+```
+
 ### How to use:
 ```
 import {OutsideEvents} from 'react-outside-events';
