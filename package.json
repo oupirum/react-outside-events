@@ -2,6 +2,14 @@
   "name": "react-outside-events",
   "version": "1.0.0",
   "description": "Handle events from outside of element",
+  "keywords": [
+    "react",
+    "outside",
+    "event",
+    "handle",
+    "click",
+    "touch"
+  ],
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
