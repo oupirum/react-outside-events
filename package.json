@@ -4,7 +4,8 @@
   "description": "Handle events from outside of element",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack --mode=production"
   },
   "author": "Constantine Oupirum",
   "license": "MIT",
