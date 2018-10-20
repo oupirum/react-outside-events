@@ -1,6 +1,6 @@
 {
   "name": "react-outside-events",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Handle events outside of element",
   "keywords": [
     "react",
