@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div>
         <p>
-          Some page content else
+          Some page content
         </p>
 
         <OutsideEvents on={{
@@ -27,7 +27,11 @@ class App extends Component {
               console.debug('handle touch');
             },
             {/* or any other event */}
-            {/* These event handlers will be triggered when you click|touch anywhere on the page but not on the `<p>Something</p>` */}
+            {/*
+              These event handlers will be triggered
+              when you click|touch anywhere on the page
+              but not on the `<p>Something</p>`
+            */}
         }}>
           <p>
             Something
@@ -35,7 +39,7 @@ class App extends Component {
         </OutsideEvents>
 
         <p>
-          Some page content else
+          Some page content
         </p>
       </div>
     );
